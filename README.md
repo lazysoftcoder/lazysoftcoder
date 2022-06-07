@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lazysoftcoder
 - 👀 Interest: Food, Book, Football, Music...ahh, its a long list..and lastly, Fixing broken objects
 - 🌱 Learning : Core JAVA, DSA, Cryptography and Peace..
-- 💞️ I’m looking to collaborate on : updating...
 - 📫 How to reach me : Don't stalk, I'm Asymptotic :)
 
 <!---
